@@ -1,0 +1,8 @@
+streamlit 
+openai 
+pyshorteners 
+requests 
+translate 
+opencv-python 
+numpy 
+language-tool-python
