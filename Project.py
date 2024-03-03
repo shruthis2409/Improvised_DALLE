@@ -1,4 +1,7 @@
 #pip install streamlit openai pyshorteners requests translate opencv-python numpy language-tool-python
+import subprocess
+req=
+subprocess.check_call(['pip','install','-r',req])
 import streamlit as st
 import openai
 import pyshorteners
